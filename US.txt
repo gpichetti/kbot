@@ -1,0 +1,20 @@
+definición de clase factura
+ingreso del precio y cantidad  
+cálculo del total parcial  
+impresión por pantalla del total
+creación los descuentos 
+cálculo del porcentaje de descuento
+implementar cálculo con descuento más de $1000
+implementar cálculo con descuento más de $5000
+implementar cálculo con descuento más de $7000
+implementar cálculo con descuento más de $10000
+implementar cálculo con descuento más de $50000
+ingreso del precio, cantidad y estado
+creación de los estados
+implementar cálculo de impuesto UT
+implementar cálculo de impuesto NV
+implementar cálculo de impuesto TX
+implementar cálculo de impuesto AL
+implementar cálculo de impuesto CA
+validación de para un estado no existente
+mostrar por pantalla el detalle del cálculo
